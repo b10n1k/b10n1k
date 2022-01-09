@@ -17,7 +17,7 @@ My interests are not limited on the OpenQA space and in my free time i try to ex
 ![Recent Repos](https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=openQA&theme=dark)
 
 ## Contact
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [jbonatakis](https://www.linkedin.com/in/jbonatakis/)
+![https://www.linkedin.com/in/jbonatakis/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 ## ⚡ Random fact: 
 - I write most of the code on ![image](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
