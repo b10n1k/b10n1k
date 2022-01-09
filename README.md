@@ -12,9 +12,14 @@ My interests are not limited on the OpenQA space and in my free time i try to ex
 ## Projects i currently work on
 ![Recent Repos](https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst-distri-opensuse&theme=dark)
 
-![Recent Repos](https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst&theme=dark)
-
 ![Recent Repos](https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=openQA&theme=dark)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 ## Tools
 OS: [![suse](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)](https://www.opensuse.org/#Tumbleweed) [![fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
