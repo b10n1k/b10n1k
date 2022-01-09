@@ -10,15 +10,11 @@ My interests are not limited on the OpenQA space and in my free time i try to ex
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b10n1k&theme=github_dark&layout=compact&langs_count=8&hide=Makefile,Groff)
 
 ## Projects i currently work on
-![Recent Repos](https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst-distri-opensuse&theme=dark)
-
-![Recent Repos](https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=openQA&theme=dark)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst-distri-opensuse&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst-distri-opensuse&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=openQA&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=openQA&theme=dark" />
 </a>
 
 ## Tools
