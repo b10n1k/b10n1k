@@ -3,9 +3,9 @@
 
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=b10n1k&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b10n1k&theme=github_dark&layout=compact&langs_count=8&hide=Makefile,Groff)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=b10n1k&theme=github_dark&layout=compact&langs_count=8&hide=Makefile,Groff)
 
-https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst&theme=github_dark
+![Recent Repos]https://github-readme-stats.vercel.app/api/pin?username=b10n1k&repo=os-autoinst&theme=github_dark
 
 <!--
 **b10n1k/b10n1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
